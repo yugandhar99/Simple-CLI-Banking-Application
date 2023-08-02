@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 public class Banking {
-    public static String usernames[] = { "Yaswanth", "Mike", "Amar", "Vicky", "Jane", "Stark" };
+    public static String usernames[] = { "Yugandhar", "Mike", "Amar", "Vicky", "Jane", "Stark" };
     public static String passwords[] = { "9440", "6968", "3789", "8756", "6098", "5670" };
     public static int amount_in_account[] = { 6956389, 843265, 69756, 1026339, 423201, 5086145 };
     public static String Create_Username, Create_Password, Create_Amount;
